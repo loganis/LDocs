@@ -5,10 +5,10 @@ LDocs
 
 * This repository contains [Loganis Docs](http://docs.loganis.com) markdown files.
 
-# License
+## License
 
 * LDocs can be distributed under MIT License
 
-# Copyright
+## Copyright
 
 * LDocs is Copyright (c) 2014 Loganis - iWebMa Ltd.
