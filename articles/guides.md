@@ -16,6 +16,14 @@ This guide provides a fast track getting started guide of Loganis on how to:
 * Install Dashboard Template
 * Export and view Dashboard
 
+###  [Top Level Overview](/articles/toplevel_overview.html)
+
+This guide provides a brief top level introduction to Loganis:
+
+* User levels
+* Glossary
+* Interfaces
+
 ### [LQuery overview](/articles/lquery_overview.html)
 
 This guides provides an overview of Loganis Query Script elemens, like:
